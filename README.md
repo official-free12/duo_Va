@@ -1,0 +1,6 @@
+# 多级别/推荐奖/对碰奖/报单奖/店推奖 直销系统/软件/源码
+
+多级别/推荐奖/对碰奖/报单奖/店推奖直销系统/软件/源码<br>奖金计划<br>一、会员级别<br>普通会员：__元<br>银级会员：__元<br>金级会员：__元<br>钻级会员：__元<br>金钻会员：__元<br>后台补差什级<br>二、推荐奖<br>普通会员：__%，日封顶__元<br>银级会员：__%，日封顶__元<br>金级会员：__%，日封顶__元<br>钻级会员：__%，日封顶__元<br>金钻会员：__%，日封顶__元<br>三、月封顶<br>普通会员：__%，（推荐奖+对碰奖）月封顶__元<br>银级会员：__%，（推荐奖+对碰奖）月封顶__元<br>金级会员：__%，（推荐奖+对碰奖）月封顶__元<br>钻级会员：__%，（推荐奖+对碰奖）月封顶__元<br>金钻会员：__%，（推荐奖+对碰奖）月封顶__元<br>四、对碰奖（1：1）<br>普通会员：小区业绩的_%，日封顶__元<br>银级会员：小区业绩的_%，日封顶__元<br>金级会员：小区业绩的_%，日封顶__元<br>钻级会员：小区业绩的_%，日封顶__元<br>金钻会员：小区业绩的_%，日封顶__元<br>五、报单奖：__%（仅金钻会员，前台可申请报单中心，后台审核开通）<br>六、店推奖：直推荐报单中心，奖__元<br>七、基本功能：扣税_%、提现手续费_%、互转、接口<br>八、内部购物<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/sDLfj" style="color: red;">https://mega-file.org/sDLfj</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
